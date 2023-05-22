@@ -4,16 +4,16 @@
 
 	// Navigation Menu Items
 	const navItems = [
-		{ label: '1', href: '/1/' }
-		// { label: '2', href: '/2/' },
-		// { label: '3', href: '/3/' },
-		// { label: '4', href: '/4/' },
-		// { label: '5', href: '/5/' },
-		// { label: '6', href: '/6/' },
-		// { label: '7', href: '/7/' }
-		// { label: '8', href: '/8/' },
-		// { label: '9', href: '/9/' },
-		// { label: '10', href: '/10/' }
+		{ label: '1', href: '/1/' },
+		{ label: '2', href: '/2/' },
+		{ label: '3', href: '/3/' },
+		{ label: '4', href: '/4/' },
+		{ label: '5', href: '/5/' },
+		{ label: '6', href: '/6/' },
+		{ label: '7', href: '/7/' },
+		{ label: '8', href: '/8/' },
+		{ label: '9', href: '/9/' },
+		{ label: '10', href: '/10/' }
 	];
 
 	// Navigation Menu
