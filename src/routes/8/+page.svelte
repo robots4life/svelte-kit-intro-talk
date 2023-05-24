@@ -1,0 +1,50 @@
+<div class="block mb-32">
+	<h1>Production Example with Hygraph and SvelteKit</h1>
+	<h3>
+		https://davidmorrison.ch/
+		<a
+			class="block"
+			target="_blank"
+			rel="noreferrer"
+			href="https://pagespeed.web.dev/analysis/https-davidmorrison-ch/mp5vuv8yfd"
+			>https://pagespeed.web.dev/analysis/https-davidmorrison-ch/mp5vuv8yfd</a
+		>
+	</h3>
+	<h3>
+		https://davidmorrison.ch/work/
+		<a
+			class="block"
+			target="_blank"
+			rel="noreferrer"
+			href="https://pagespeed.web.dev/analysis/https-davidmorrison-ch-work/w5j2n93mtk"
+			>https://pagespeed.web.dev/analysis/https-davidmorrison-ch-work/w5j2n93mtk</a
+		>
+		<!-- <a
+			class="block"
+			target="_blank"
+			rel="noreferrer"
+			href="https://pagespeed.web.dev/analysis/https-davidmorrison-ch-work/yz5djgb7xg"
+			>https://pagespeed.web.dev/analysis/https-davidmorrison-ch-work/yz5djgb7xg</a
+		> -->
+	</h3>
+	<h3>
+		https://davidmorrison.ch/about/
+		<a
+			class="block"
+			target="_blank"
+			rel="noreferrer"
+			href="https://pagespeed.web.dev/analysis/https-davidmorrison-ch-about/vwrif52c8c"
+			>https://pagespeed.web.dev/analysis/https-davidmorrison-ch-about/vwrif52c8c</a
+		>
+	</h3>
+	<h3>
+		https://davidmorrison.ch/contact/
+		<a
+			class="block"
+			target="_blank"
+			rel="noreferrer"
+			href="https://pagespeed.web.dev/analysis/https-davidmorrison-ch-contact/iga1avhrxu"
+			>https://pagespeed.web.dev/analysis/https-davidmorrison-ch-contact/iga1avhrxu</a
+		>
+	</h3>
+</div>
