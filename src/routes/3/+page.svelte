@@ -16,10 +16,9 @@
 	<li class="p-2">Library packaging</li>
 	<li class="p-2">Optimised production builds</li>
 	<li class="p-2">Deploying to different hosting providers</li>
-	<li class="p-2">...</li>
 </ul>
 
-<h3>
+<!-- <h3>
 	SvelteKit intro
 	<a
 		class="block"
@@ -28,4 +27,4 @@
 		href="https://learn.svelte.dev/tutorial/introducing-sveltekit"
 		>https://learn.svelte.dev/tutorial/introducing-sveltekit</a
 	>
-</h3>
+</h3> -->

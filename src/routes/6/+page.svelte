@@ -1,5 +1,5 @@
 <h1>Loading & Rendering</h1>
-<h3>
+<!-- <h3>
 	SvelteKit Loading Data for Pages
 	<a
 		class="block"
@@ -8,7 +8,7 @@
 		href="https://learn.svelte.dev/tutorial/page-data"
 		>https://learn.svelte.dev/tutorial/page-data</a
 	>
-</h3>
+</h3> -->
 
 <div class="flex">
 	<div class="p-10">

@@ -8,5 +8,4 @@
 	<li class="p-2">
 		Rendering — generate some HTML (on the server) or update the DOM (in the browser)
 	</li>
-	<li class="p-2">...</li>
 </ul>
