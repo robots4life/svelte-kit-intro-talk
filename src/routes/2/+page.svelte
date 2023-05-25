@@ -17,7 +17,7 @@
 			target="_blank"
 			rel="noreferrer"
 			href="https://svelte.dev/repl/8d7047ce35cd40b296b256f954667ec0?version=3.59.1"
-			>Simple variable example</a
+			>Simple variable example 1</a
 		>
 		<!-- <a
 			class="block"
@@ -40,7 +40,7 @@
 			target="_blank"
 			rel="noreferrer"
 			href="https://svelte.dev/repl/47f9351e0196412b8556e1f455fc234a?version=3.59.1"
-			>Reactive Assignments 1</a
+			>Reactive Assignments 2</a
 		>
 		<!-- <a
 			class="block"
@@ -62,14 +62,14 @@
 			target="_blank"
 			rel="noreferrer"
 			href="https://svelte.dev/repl/926448720d5b49f7a85810e87faae36f?version=3.59.1"
-			>Reactive declarations with labeled statements 1</a
+			>Reactive declarations with labeled statements 3</a
 		>
 		<a
 			class="block"
 			target="_blank"
 			rel="noreferrer"
 			href="https://svelte.dev/repl/ef3c100d80c24de88a2cd1eaff02bb4d?version=3.59.1"
-			>Reactive declarations with labeled statements 2</a
+			>Reactive declarations with labeled statements 4</a
 		>
 		<!-- <a
 			class="block"
