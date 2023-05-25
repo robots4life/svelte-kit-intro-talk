@@ -12,8 +12,8 @@
 		{ label: '6', href: '/6/' },
 		{ label: '7', href: '/7/' },
 		{ label: '8', href: '/8/' },
-		{ label: '9', href: '/9/' },
-		{ label: '10', href: '/10/' }
+		{ label: '9', href: '/9/' }
+		// { label: '10', href: '/10/' }
 	];
 
 	// Navigation Menu

@@ -9,3 +9,9 @@
 		>https://hygraph.com/</a
 	>
 </h3>
+
+<h3>
+	<a class="block" target="_blank" rel="noreferrer" href="https://davidmorrison.ch/"
+		>https://davidmorrison.ch/</a
+	>
+</h3>
