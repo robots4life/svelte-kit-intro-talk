@@ -9,3 +9,5 @@
 	href="https://app.hygraph.com/4c0e8dbbb67c4a1795ae0b526f683106/master"
 	>https://app.hygraph.com/4c0e8dbbb67c4a1795ae0b526f683106/master</a
 >
+
+<h3>dev shell - startup david-new - http://localhost:5174/stream/</h3>
