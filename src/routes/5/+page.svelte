@@ -8,9 +8,9 @@
 </h3> -->
 <div class="flex">
 	<div class="p-10">
-		<img class="mb-32" src="/001.png" alt="sveltekit file structure" />
+		<img class="mb-32 max-w-sm" src="/001.png" alt="sveltekit file structure" />
 	</div>
 	<div class="p-10">
-		<img class="mb-32" src="/002.png" alt="sveltekit file structure" />
+		<img class="mb-32 max-w-sm" src="/002.png" alt="sveltekit file structure" />
 	</div>
 </div>

@@ -1,4 +1,4 @@
-<h1>In summary you learned about..</h1>
+<h1>In summary you heard about..</h1>
 
 <h2>1. What is Svelte ?</h2>
 <h2>2. What is SvelteKit ?</h2>
