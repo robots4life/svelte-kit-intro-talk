@@ -99,6 +99,16 @@
 			>https://svelte.dev/blog/virtual-dom-is-pure-overhead</a
 		>
 	</h3>
+	<h3>
+		Rethinking Reactivity
+		<a
+			class="block"
+			target="_blank"
+			rel="noreferrer"
+			href="https://www.youtube.com/watch?v=AdNJ3fydeao"
+			>https://www.youtube.com/watch?v=AdNJ3fydeao</a
+		>
+	</h3>
 </div>
 
 <div class="block mb-64 max-w-5xl">
