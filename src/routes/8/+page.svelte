@@ -100,3 +100,18 @@
 		>
 	</h3>
 </div>
+
+<div class="block mb-32">
+	<h3>
+		<a
+			class="block"
+			target="_blank"
+			rel="noreferrer"
+			href="https://svelte.dev/blog/streaming-snapshots-sveltekit">Extra ?</a
+		>
+	</h3>
+	<h3>
+		<a class="block" target="_blank" rel="noreferrer" href="http://localhost:5174/stream/">:)</a
+		>
+	</h3>
+</div>
