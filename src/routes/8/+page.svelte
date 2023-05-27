@@ -111,7 +111,7 @@
 		>
 	</h3>
 	<h3>
-		<a class="block" target="_blank" rel="noreferrer" href="http://localhost:5174/stream/">:)</a
+		<a class="block" target="_blank" rel="noreferrer" href="http://localhost:5173/stream/">:)</a
 		>
 	</h3>
 </div>
